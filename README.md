@@ -1,6 +1,6 @@
- # Movie Recommendation System using singlular value decomposition
+ # Movie Recommendation System using singular value decomposition
  
- In this project, we use singlular value decomposition for generating / creating a movie recommendation system.                           
+ In this project, we use singular value decomposition for generating / creating a movie recommendation system.                           
 
 Procedure:                                                                                                                  
 => Analyse the problem that is need to be found, here we need to identify similar movies.                                           
